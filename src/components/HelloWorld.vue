@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <div>test测试内容 【2022年11月17日16:29:31】</div>
   </div>
 </template>
 
