@@ -31,3 +31,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 【2022年11月17日14:11:19】MacBook Pro推送
 
 【2022年11月17日16:12:33】新的推送
+
+【2022年11月20日19:28:01】新的MacBook
