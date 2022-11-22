@@ -39,3 +39,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 【2022年11月21日20:39:18】新的windows
 
 【2022年11月21日20:43:34】获取 MacBook Pro
+
+【2022年11月22日09:02:20】魔法怎么失灵了
